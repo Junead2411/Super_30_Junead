@@ -1,4 +1,2 @@
- hi
-
- update in main`:wq!
-
+hi
+lets see merge conflict
